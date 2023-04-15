@@ -1,5 +1,5 @@
 {
-  "name": "chatgpt-cli",
+  "name": "chatgpt-proxy-cli",
   "version": "1.0.0",
   "description": "visit ChatGPT via cli and proxy",
   "main": "index.js",
